@@ -14,16 +14,14 @@
 
 .main {
     position: relative;
-    margin-top: 11px;
-    margin-left: 336px;
     height: 453px;
-
 }
 
 .slider {
     width: 730px;
     float: left;
     position: relative;
+    margin: 11px 0 0 10px;
 }
 
 
@@ -32,6 +30,7 @@
     width: 246px;
     height: 453px;
     margin-left: 10px;
+    margin-top: 11px;
     border: 1px solid #E4E4E4;
 }
 
@@ -102,7 +101,7 @@
 
 .jd-serv ul li {
     width: 61px;
-    height: 68px;
+    height: 69px;
     border: 1px solid #e4e4e4;
     float: left;
     border-top : 0;
@@ -140,7 +139,7 @@
 }
 
 .todays {
-    margin-top: 10px;
+    margin-top: 24px;
     margin-bottom: 10px;
     position: relative;
 }
